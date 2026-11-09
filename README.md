@@ -17,7 +17,7 @@ Each folder contains:
 ### Option A
 1. Clone the repo via HTTPS (it is public, no SSH needed):
 ```
-git clone https://github.com/jurekbl/qkqcd_26_coding_tasks.git
+git clone https://github.com/jurekbl/tqc_26_coding_tasks
 ```
 2. Install the required packages:<br>
 ***Especially in Python 3.12 it is highly recommended to install the packages locally in a virtual environment!*** <br>
