@@ -4,7 +4,6 @@ from qiskit.quantum_info import Pauli, Statevector
 
 # This exercise has the goal the guide you through an implementation anyon creation
 # Some interface is provided, fill out every TODO by replacing None, pass or []!
-# Follow the protocol from exercise sheet 5, the name of the variables is this same.
 # Do not rename the variables or change the data type of the output.
 # No additional imports or packages are necessary.
 
