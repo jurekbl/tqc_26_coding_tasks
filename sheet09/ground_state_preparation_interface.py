@@ -235,8 +235,8 @@ def part_3_stabilizers() -> None:
 # Part 4: The ground state
 # ---------------------------------------------------------------------------
 
-Zbar1 = pauli()  # a Z-loop around the torus, horizontally #TODO
-Zbar2 = pauli()  # a Z-loop around the torus, vertically #TODO
+#TODO Zbar1 = pauli()  # a Z-loop around the torus, horizontally
+#TODO Zbar2 = pauli()  # a Z-loop around the torus, vertically
 
 
 def build_ground_circuit() -> QuantumCircuit:
