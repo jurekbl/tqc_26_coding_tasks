@@ -2,3 +2,4 @@ matplotlib
 qiskit
 qiskit_aer
 PyQt6
+pylatexenc
